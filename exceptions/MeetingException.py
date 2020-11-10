@@ -1,0 +1,2 @@
+class MeetingException(Exception):
+    pass
